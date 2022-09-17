@@ -1,0 +1,15 @@
+C:\Users\suren.arakelyan\null\frågesport\frågesport\obj\Debug\net6.0\frågesport.csproj.AssemblyReference.cache
+C:\Users\suren.arakelyan\null\frågesport\frågesport\obj\Debug\net6.0\frågesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suren.arakelyan\null\frågesport\frågesport\obj\Debug\net6.0\frågesport.AssemblyInfoInputs.cache
+C:\Users\suren.arakelyan\null\frågesport\frågesport\obj\Debug\net6.0\frågesport.AssemblyInfo.cs
+C:\Users\suren.arakelyan\null\frågesport\frågesport\obj\Debug\net6.0\frågesport.csproj.CoreCompileInputs.cache
+C:\Users\suren.arakelyan\null\frågesport\frågesport\bin\Debug\net6.0\frågesport.exe
+C:\Users\suren.arakelyan\null\frågesport\frågesport\bin\Debug\net6.0\frågesport.deps.json
+C:\Users\suren.arakelyan\null\frågesport\frågesport\bin\Debug\net6.0\frågesport.runtimeconfig.json
+C:\Users\suren.arakelyan\null\frågesport\frågesport\bin\Debug\net6.0\frågesport.dll
+C:\Users\suren.arakelyan\null\frågesport\frågesport\bin\Debug\net6.0\frågesport.pdb
+C:\Users\suren.arakelyan\null\frågesport\frågesport\obj\Debug\net6.0\frågesport.dll
+C:\Users\suren.arakelyan\null\frågesport\frågesport\obj\Debug\net6.0\refint\frågesport.dll
+C:\Users\suren.arakelyan\null\frågesport\frågesport\obj\Debug\net6.0\frågesport.pdb
+C:\Users\suren.arakelyan\null\frågesport\frågesport\obj\Debug\net6.0\frågesport.genruntimeconfig.cache
+C:\Users\suren.arakelyan\null\frågesport\frågesport\obj\Debug\net6.0\ref\frågesport.dll
