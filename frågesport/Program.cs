@@ -1,5 +1,8 @@
 ﻿Console.WriteLine("Hej Välkommen till frågesport som handlar om Fotboll");
 Console.WriteLine("Regler, Du får 3 val och du ska skriva antigen 1,2 eller 3 en av dom kommer vara rätt får du fel får du 0 poäng får du rätt får du poäng");
+
+
+Console.WriteLine("");
 int poäng = 0;
 
 Console.WriteLine(" Vem är den mest berömda fotbolls spelare genom tiderna");
@@ -31,7 +34,7 @@ else
 
 
 Console.Clear();
-Console.WriteLine(" Vilken klubb har fläst Champions League geonom historien");
+Console.WriteLine(" Vilken klubb har flest Champions League geonom historien");
 Console.WriteLine(" 1) Real Madrid 2) Fc barcelona 3) Manchester United FC");
 string svar2 = "";
 while (svar2 != "1" && svar2 != "2" && svar2 != "3")
