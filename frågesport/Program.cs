@@ -18,6 +18,7 @@ else
     Console.WriteLine("Du fick fel svar");
 }
 
+Console.Clear();
 Console.WriteLine(" Vilken klubb har fläst Champions League geonom historien");
 Console.WriteLine( " 1) Real Madrid 2) Fc barcelona 3) Manchester United FC");
 
@@ -33,6 +34,7 @@ else
     Console.WriteLine(" Tyvär du fick fel svar bättre lycka nästa gång");
 }
 
+Console.Clear();
 Console.WriteLine(" Vad är det längsta Svergie har kommit i Världsmästerskapet i fotboll");
 Console.WriteLine(" 1) Semi-final 2) Final 3) Kvarts-final");
 
@@ -48,7 +50,7 @@ else
     Console.WriteLine(" Fel svar, Klart som fan att Sverige har kommit till finalen");
 }
 
-
+Console.Clear();
 Console.WriteLine("År 1958 kom Sverige till finalen i Världsmästerskapet på fotboll. Vem vann år 1958");
 Console.WriteLine(" 1) Brasilien 2) Sverige 3) Frankrike");
 
@@ -64,7 +66,7 @@ else
     Console.WriteLine(" Tyvärr fel svar ");
 }
 
-
+Console.Clear();
 
 
 Console.WriteLine( $" Du fick sammanlagt så här mycket {poäng}.");
